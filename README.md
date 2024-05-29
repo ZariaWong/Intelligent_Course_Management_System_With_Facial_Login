@@ -16,6 +16,8 @@ Wen Qi Li
 
 Louis Polwarth
 
+The University of Hong Kong owns the Software intellectual property of the AI of Image Recognition Training.
+
 # Database Design
 Course(course_id (Primary Key), course_code, course_name, classroom_address, teacher_message, zoom_link, tutorial_lecture_notes, other_course_materials, start_time, end_time, days_of_week
 
